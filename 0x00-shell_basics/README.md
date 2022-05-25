@@ -1,1 +1,2 @@
-radio
+#!bin/bash
+my third read me
