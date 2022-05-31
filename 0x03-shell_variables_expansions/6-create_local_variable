@@ -1,2 +1,2 @@
-#!/bin/bash
-var BETTY="Holberton"
+#1/bin/bash
+BETTY="Holberton"
